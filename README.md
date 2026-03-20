@@ -8,5 +8,13 @@ SALTOS DE LINEA- párrafo nuevo enter dos veces.
 
 BAJAR UNA LINEA- dos espacios al final más enter.  
 
+FORZAR SALTO- <BR  
+ENCABEZADOS-  
+#título nivel 1  
+##nivel 2  
+###nivel 3, y así.  
+#Formato de texto:
+
+
 
 
