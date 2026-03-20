@@ -3,7 +3,8 @@ Es una plataforma en la nube que permite almacenar, gestionar y compartir códig
 
 
 MARKDOWN- Es un lenguaje de marcado ligero. En términos simples, es una forma de escribir texto con formato.
-SALTOS DE LINEA- párrafo nuevo enter dos veces. 
+SALTOS DE LINEA- párrafo nuevo enter dos veces.  
+
 BAJAR UNA LINEA- dos espacios al final más enter.  
 
 
