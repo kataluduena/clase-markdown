@@ -123,7 +123,7 @@ Quisieron expandir las limitaciones del Desing by Numbers (DBN).
 
 Agregaron la paleta de color y tamaño variable.  
 
-Mantuvieron la simplicidad en la sistaxis en el código y la idea del #sketchbook".
+Mantuvieron la simplicidad en la sistaxis en el código y la idea del #sketchbook". 
 
 
 
