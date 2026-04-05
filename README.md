@@ -55,7 +55,7 @@ Ada Lovelace fué una matemática y escritora del siglo XIX, considerada la prim
 Inspirada en el telar de Jacquard, vio que las tarjetas perforadas podían usarse para crear instrucciones o programas, por esto, se le conoce por anticipar el concepto de programación mucho antes de que existieran los computadores.
 
 ### El primer algoritmo  
-Entre 1842 y 1843, Lovelace tradujo al inglés y revisó un artículo del ingeniero italiano Luigui Menabrea sobre la máquina analítica de Babbage. En sus anotaciones, Lovelace incluyó un conjunto de algoritmos diseñado específicamente para su implementación en un "computador", para que la máquina calculara una serie de números de bernoulli. Estos algoritmos se consideran actualmente como el primer programa de computación, lo que convierte a Lovelace en la primera programadora de la historia.
+Entre 1842 y 1843, Lovelace tradujo al inglés y revisó un artículo del ingeniero italiano Luigui Menabrea sobre la máquina analítica de Babbage. En sus anotaciones, Lovelace incluyó un conjunto de algoritmos diseñado específicamente para su implementación en un "computador", para que la máquina calculara una serie de números de bernoulli. Estos algoritmos se consideran actualmente como el primer programa de computación, lo que convierte a Lovelace en la primera programadora de la historia.  
 
      
     
