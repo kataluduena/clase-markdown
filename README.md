@@ -70,7 +70,65 @@ El hadware se vualve irrelevante; lo que importa es **el código (las instruccio
 ## Artistas y algoritmos  
 La mayoría de los esfuerzos por usar la computadora para crear arte comenzaron en la década de 1960, en medio de una escena artística efervescente y diversa. Artistas como **Vera Molnár**, **Manfred Mohr**, **Georg Nees**, entre otros.
 
-# Cybernetic Serendipity
+# John & James Whitney  
+Fueron pioneros en el trabajo con Computer Graphics Animation.  
+
+Whitney no usó una computadora digital al principio. Recuperó un **compuatdor análogo de la Segunda Guerra Mundial** (un director de tiro antiaéreo M-5) y lo que modificó. En lugar de calcular trayectorias para derribar aviones, convirtió los voltajes en movimientos de cámara y luz para pintar sobre celuloide.  
+
+Introducen el concepto de Diseño Paramétrico y Movimiento Armónico.
+
+# Sketchpad Ivan Sutherland  
+En 1963, Sutherland creó el primer programa informático que permitía dibujar directamente en una pantalla usuando un lápiz óptico.  
+
+Este sistema introdujo la manipulación directa de objetos gráficos, pionero en la interacción humano-computador (HCI), sentando las bases de los programas de diseño asistido por computador.  
+
+Introdce la Programación Orientada a Objetos (POO) de forma visual: podía dibujar una "rueda maestra" y luego crear 50 copias; si cambiaba la maestra, cambiaban todas.
+
+# Democratización del Creative Coding  
+## Software libre  
+Nace formalmente en 1983, cuando Richard Stallman anunció el inicio del Proyecto GNU.  
+
+La idea del proyecto era crear un sistema operativo libre.  
+
+En 1985 se publica el Manifesto GNU y se funda la **Free Software Fundation (FSF)**.  
+
+Este movimiento surgió como respuesta a la creciente privatización del software.  
+
+#### Buscan garantizar 4 libertades esenciales:  
+1. **Libertad 0 (uso):** La libertad de ejecutar el programa como se desee, con cualquier propósito.
+2. **Libertad 1 (estudio):** La libertad de esrudiar cómo funciona  el programa y cambiarlo para que haga lo que el usuario quiera. El acceso al código fuente es una condición necesaria.
+3. **Libertad 2 (distribución):** La libertad de redistribuir copias para ayudar a otros.
+4. **Libertad 3 (mejira):** La libertad de mejorar el programa y hacer públicas las mejoras, para que toda la comunidad se beneficie. El acceso a código fuente es necesario.
+
+#### Principios fundamentales adicionales de la FSF:  
+1. **Libertad, no precio:** El software libre es una cuestión de libertad de los usuarios de computadores, no de precio.
+2. **Copyleft:** Se promueve la distribución bajo términos de copyleft, que garantizan que el software y sus versiones modificadas sigan siendo libres.
+3. **Lucha contra restricciones:** Campañas activas contra patentes de software, Gesatión Digital de Restricciones (DRM) y otras amenazas a la libertad de los usuarios.
+4. **Desarrollo del proyecto GNU:** Fomento del desarrollo de un sistema operativo completamente libre.
+
+## Desing by numbers, John Maeda  
+Experimento educativo radical, lanzado en 1999 por John Maeda en el MIT Media Lab.  
+Consistía en un lenguaje de prgramación y entorno diseñado específicamente para enseñar a diseñadores visuales a programar.  
+
+- Todo el espacio de tranajo es una cuadrícula fija de 100x100 píxeles.
+- No había colores RGB complejos. Solo existía el "porcentaje de tinta".0 era blanco (papel vacío) y 100 era negro total.
+- Maeda eliminó los puntos y comas, las llaves complejas y las declaraciones de tipos variables. El código se leía fácilmente: line 10 10 90 90 (dibuja una línea de x10, y10 a x90,y90).
+
+## Procesing, Casey reas y Ben Fry  
+Software libre, de código abierto y gratuito, diseñado para la enseñanza de prgramación en contextos visuales, permite a artistas, diseñadores y principiantes crear gráficos, animaciones e intereacciones, estando disponible paea Windows, macOS, Linux.  
+
+Creado en el MIT Medialab por 2 estudiantes de John Maeda; Ben Fry y Casey Reas, en el año 2001.  
+
+Quisieron expandir las limitaciones del Desing by Numbers (DBN).  
+
+Agregaron la paleta de color y tamaño variable.  
+
+Mantuvieron la simplicidad en la sistaxis en el código y la idea del #sketchbook".
+
+
+
+
+
 
 
 
