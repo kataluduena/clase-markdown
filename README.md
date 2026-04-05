@@ -55,7 +55,24 @@ Ada Lovelace fué una matemática y escritora del siglo XIX, considerada la prim
 Inspirada en el telar de Jacquard, vio que las tarjetas perforadas podían usarse para crear instrucciones o programas, por esto, se le conoce por anticipar el concepto de programación mucho antes de que existieran los computadores.
 
 ### El primer algoritmo  
-Entre 1842 y 1843, Lovelace tradujo al inglés y revisó un artículo del ingeniero italiano Luigui Menabrea sobre la máquina analítica de Babbage. En sus anotaciones, Lovelace incluyó un conjunto de algoritmos diseñado específicamente para su implementación en un "computador", para que la máquina calculara una serie de números de bernoulli. Estos algoritmos se consideran actualmente como el primer programa de computación, lo que convierte a Lovelace en la primera programadora de la historia.  
+Entre 1842 y 1843, Lovelace tradujo al inglés y revisó un artículo del ingeniero italiano Luigui Menabrea sobre la máquina analítica de Babbage. En sus anotaciones, Lovelace incluyó un conjunto de algoritmos diseñado específicamente para su implementación en un "computador", para que la máquina calculara una serie de números de bernoulli. Estos algoritmos se consideran actualmente como el primer programa de computación, lo que convierte a Lovelace en la primera programadora de la historia.
+
+## La máquina de Turing  
+Originalmente fue definida por el matemático inglés Alan Turing como la "máquina automática" en 1936 en la revista Proceedings of the London Mathematical Society.  
+
+No es una máquina física es un **experimento mental** (una máquina teórica). Turing imaginó una cinta infinita, un cabezal que lee/escribe símbolos, y un cpnjunto de reglas, (estados).  
+
+Define la **Computabilidad Universal**. Turing demostró que una máquina simple, con las instrucciones correctas, puede simular a cualquier otra máquina.  
+
+El hadware se vualve irrelevante; lo que importa es **el código (las instrucciones)**.
+
+# El despertar visual  
+## Artistas y algoritmos  
+La mayoría de los esfuerzos por usar la computadora para crear arte comenzaron en la década de 1960, en medio de una escena artística efervescente y diversa. Artistas como **Vera Molnár**, **Manfred Mohr**, **Georg Nees**, entre otros.
+
+# Cybernetic Serendipity
+
+
 
      
     
